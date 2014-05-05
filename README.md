@@ -1,6 +1,7 @@
 AndroidLocation
 ===============
 
+docs
 GpsLocation g=GpsLocation.getGpsLocation(this);
 	g.getLongitudeLatitude(new LocationListenerWrap() {
 
